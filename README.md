@@ -1,7 +1,9 @@
 ### Hi there, I'm Raul 👋
 
+- 🌱 I’m currently learning JS and WEB DEV
+
 <!--
-**Bababoooooey/Bababoooooey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Raul-Vithor/Raul-Vithor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
